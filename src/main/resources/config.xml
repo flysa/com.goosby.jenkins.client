@@ -43,6 +43,6 @@
   <triggers/>
   <concurrentBuild>false</concurrentBuild>
   <builders/>
-  <publishers/>
+   <publishers/>
   <buildWrappers/>
   </project>
